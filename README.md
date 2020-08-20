@@ -10,3 +10,9 @@ sudo apt install nvidia-prime && prime-select nvidia
 ```
 
 And then reboot 
+
+Or you can use script nvidia.sh just typing 
+
+```bash
+./nvidia.sh
+```

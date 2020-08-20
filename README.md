@@ -5,7 +5,6 @@ My laptop has spec nvidia geforce 610m/710m/810m if you have problem blankscreen
 
 ```
 sudo apt install nvidia-prime && prime-select nvidia
-
 ```
 
 And then reboot 

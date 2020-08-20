@@ -16,3 +16,5 @@ Or you can use script nvidia.sh just typing
 ```bash
 ./nvidia.sh
 ```
+
+Done i hope this help :)

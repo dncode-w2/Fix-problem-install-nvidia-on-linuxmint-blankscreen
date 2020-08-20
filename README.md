@@ -3,7 +3,9 @@ This how to fix problem blankscreen after install nvidia if you have problem ins
 
 My laptop has spec nvidia geforce 610m/710m/810m if you have problem blankscreen on lightdm just install :
 
-```sudo apt install nvidia-prime && prime-select nvidi
+```
+sudo apt install nvidia-prime && prime-select nvidia
+
 ```
 
 And then reboot 
